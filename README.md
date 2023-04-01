@@ -1,5 +1,5 @@
 # Aquatec-Site-Institucional
-Site criado para as aulas de css da matéria Projeto e Inovação lecionada na faculdade SPTECH
+Site criado para as aulas de css da matéria Pesquisa e Inovação lecionada na faculdade SPTECH
 
 Atualizações
 
