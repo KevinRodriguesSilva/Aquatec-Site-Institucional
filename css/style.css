@@ -53,7 +53,7 @@ body{
     height: fit-content;
     padding: 40px 0;
     color:white;
-    background-image: url(assets/bg-jelly-fish-para_outras_pags.png);
+    background-image: url(../assets/bg-jelly-fish-para_outras_pags.png);
     background-size: cover;
 }
 
